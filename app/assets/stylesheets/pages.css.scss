@@ -2,3 +2,13 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 @import "bootstrap";
+
+.container.main {  
+  padding-top: 100px;
+}
+
+.slide {
+  height: 900px;
+  border-top: 3px solid #dedede;
+  border-bottom: 3px solid #dedede;
+}
